@@ -1,0 +1,146 @@
+[
+  {
+    "HomeTeam": "Cleveland Browns",
+    "AwayTeam": "New York Jets",
+    "Day": "Thursday",
+    "Date": "December 28, 2023",
+    "Time": "8:15 PM",
+    "Location": "Cleveland, OH",
+    "Stadium": "Cleveland Browns Stadium"
+  },
+  {
+    "HomeTeam": "Dallas Cowboys",
+    "AwayTeam": "Detroit Lions",
+    "Day": "Saturday",
+    "Date": "December 30, 2023",
+    "Time": "8:15 PM",
+    "Location": "Arlington, TX",
+    "Stadium": "AT&T Stadium"
+  },
+  {
+    "HomeTeam": "Buffalo Bills",
+    "AwayTeam": "New England Patriots",
+    "Day": "Sunday",
+    "Date": "December 31, 2023",
+    "Time": "1:00 PM",
+    "Location": "Orchard Park, NY",
+    "Stadium": "Highmark Stadium"
+  },
+  {
+    "HomeTeam": "Chicago Bears",
+    "AwayTeam": "Atlanta Falcons",
+    "Day": "Sunday",
+    "Date": "December 31, 2023",
+    "Time": "1:00 PM",
+    "Location": "Chicago, IL",
+    "Stadium": "Soldier Field"
+  },
+  {
+    "HomeTeam": "Indianapolis Colts",
+    "AwayTeam": "Las Vegas Raiders",
+    "Day": "Sunday",
+    "Date": "December 31, 2023",
+    "Time": "1:00 PM",
+    "Location": "Indianapolis, IN",
+    "Stadium": "Lucas Oil Stadium"
+  },
+  {
+    "HomeTeam": "New York Giants",
+    "AwayTeam": "Los Angeles Rams",
+    "Day": "Sunday",
+    "Date": "December 31, 2023",
+    "Time": "1:00 PM",
+    "Location": "East Rutherford, NJ",
+    "Stadium": "MetLife Stadium"
+  },
+  {
+    "HomeTeam": "Philadelphia Eagles",
+    "AwayTeam": "Arizona Cardinals",
+    "Day": "Sunday",
+    "Date": "December 31, 2023",
+    "Time": "1:00 PM",
+    "Location": "Philadelphia, PA",
+    "Stadium": "Lincoln Financial Field"
+  },
+  {
+    "HomeTeam": "Tampa Bay Buccaneers",
+    "AwayTeam": "New Orleans Saints",
+    "Day": "Sunday",
+    "Date": "December 31, 2023",
+    "Time": "1:00 PM",
+    "Location": "Tampa, FL",
+    "Stadium": "Raymond James Stadium"
+  },
+  {
+    "HomeTeam": "Washington Commanders",
+    "AwayTeam": "San Francisco 49ers",
+    "Day": "Sunday",
+    "Date": "December 31, 2023",
+    "Time": "1:00 PM",
+    "Location": "Landover, MD",
+    "Stadium": "FedExField"
+  },
+  {
+    "HomeTeam": "Jacksonville Jaguars",
+    "AwayTeam": "Carolina Panthers",
+    "Day": "Sunday",
+    "Date": "December 31, 2023",
+    "Time": "1:00 PM",
+    "Location": "Jacksonville, FL",
+    "Stadium": "EverBank Stadium"
+  },
+  {
+    "HomeTeam": "Baltimore Ravens",
+    "AwayTeam": "Miami Dolphins",
+    "Day": "Sunday",
+    "Date": "December 31, 2023",
+    "Time": "1:00 PM",
+    "Location": "Baltimore, MD",
+    "Stadium": "M&T Bank Stadium"
+  },
+  {
+    "HomeTeam": "Houston Texans",
+    "AwayTeam": "Tennessee Titans",
+    "Day": "Sunday",
+    "Date": "December 31, 2023",
+    "Time": "1:00 PM",
+    "Location": "Houston, TX",
+    "Stadium": "NRG Stadium"
+  },
+  {
+    "HomeTeam": "Seattle Seahawks",
+    "AwayTeam": "Pittsburgh Steelers",
+    "Day": "Sunday",
+    "Date": "December 31, 2023",
+    "Time": "4:05 PM",
+    "Location": "Seattle, WA",
+    "Stadium": "Lumen Field"
+  },
+  {
+    "HomeTeam": "Denver Broncos",
+    "AwayTeam": "Los Angeles Chargers",
+    "Day": "Sunday",
+    "Date": "December 31, 2023",
+    "Time": "4:25 PM",
+    "Location": "Denver, CO",
+    "Stadium": "Empower Field at Mile High"
+  },
+  {
+    "HomeTeam": "Kansas City Chiefs",
+    "AwayTeam": "Cincinnati Bengals",
+    "Day": "Sunday",
+    "Date": "December 31, 2023",
+    "Time": "4:25 PM",
+    "Location": "Kansas City, MO",
+    "Stadium": "GEHA Field at Arrowhead Stadium"
+  },
+  {
+    "HomeTeam": "Minnesota Vikings",
+    "AwayTeam": "Green Bay Packers",
+    "Day": "Sunday",
+    "Date": "December 31, 2023",
+    "Time": "8:20 PM",
+    "Location": "Minneapolis, MN",
+    "Stadium": "U.S. Bank Stadium"
+  }
+]

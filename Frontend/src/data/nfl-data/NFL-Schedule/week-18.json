@@ -1,0 +1,146 @@
+[
+  {
+    "HomeTeam": "Baltimore Ravens",
+    "AwayTeam": "Pittsburgh Steelers",
+    "Day": "Saturday",
+    "Date": "January 6, 2024",
+    "Time": "4:30 PM",
+    "Location": "Baltimore, MD",
+    "Stadium": "M&T Bank Stadium"
+  },
+  {
+    "HomeTeam": "Indianapolis Colts",
+    "AwayTeam": "Houston Texans",
+    "Day": "Saturday",
+    "Date": "January 6, 2024",
+    "Time": "8:15 PM",
+    "Location": "Indianapolis, IN",
+    "Stadium": "Lucas Oil Stadium"
+  },
+  {
+    "HomeTeam": "Cincinnati Bengals",
+    "AwayTeam": "Cleveland Browns",
+    "Day": "Sunday",
+    "Date": "January 7, 2024",
+    "Time": "1:00 PM",
+    "Location": "Cincinnati, OH",
+    "Stadium": "Paycor Stadium"
+  },
+  {
+    "HomeTeam": "Detroit Lions",
+    "AwayTeam": "Minnesota Vikings",
+    "Day": "Sunday",
+    "Date": "January 7, 2024",
+    "Time": "1:00 PM",
+    "Location": "Detroit, MI",
+    "Stadium": "Ford Field"
+  },
+  {
+    "HomeTeam": "Tennessee Titans",
+    "AwayTeam": "Jacksonville Jaguars",
+    "Day": "Sunday",
+    "Date": "January 7, 2024",
+    "Time": "1:00 PM",
+    "Location": "Nashville, TN",
+    "Stadium": "Nissan Stadium"
+  },
+  {
+    "HomeTeam": "New England Patriots",
+    "AwayTeam": "New York Jets",
+    "Day": "Sunday",
+    "Date": "January 7, 2024",
+    "Time": "1:00 PM",
+    "Location": "Foxborough, MA",
+    "Stadium": "Gillette Stadium"
+  },
+  {
+    "HomeTeam": "New Orleans Saints",
+    "AwayTeam": "Atlanta Falcons",
+    "Day": "Sunday",
+    "Date": "January 7, 2024",
+    "Time": "1:00 PM",
+    "Location": "New Orleans, LA",
+    "Stadium": "Caesars Superdome"
+  },
+  {
+    "HomeTeam": "Carolina Panthers",
+    "AwayTeam": "Tampa Bay Buccaneers",
+    "Day": "Sunday",
+    "Date": "January 7, 2024",
+    "Time": "1:00 PM",
+    "Location": "Charlotte, NC",
+    "Stadium": "Bank of America Stadium"
+  },
+  {
+    "HomeTeam": "Green Bay Packers",
+    "AwayTeam": "Chicago Bears",
+    "Day": "Sunday",
+    "Date": "January 7, 2024",
+    "Time": "4:25 PM",
+    "Location": "Green Bay, WI",
+    "Stadium": "Lambeau Field"
+  },
+  {
+    "HomeTeam": "Las Vegas Raiders",
+    "AwayTeam": "Denver Broncos",
+    "Day": "Sunday",
+    "Date": "January 7, 2024",
+    "Time": "4:25 PM",
+    "Location": "Las Vegas, NV",
+    "Stadium": "Allegiant Stadium"
+  },
+  {
+    "HomeTeam": "New York Giants",
+    "AwayTeam": "Philadelphia Eagles",
+    "Day": "Sunday",
+    "Date": "January 7, 2024",
+    "Time": "4:25 PM",
+    "Location": "East Rutherford, NJ",
+    "Stadium": "MetLife Stadium"
+  },
+  {
+    "HomeTeam": "Arizona Cardinals",
+    "AwayTeam": "Seattle Seahawks",
+    "Day": "Sunday",
+    "Date": "January 7, 2024",
+    "Time": "4:25 PM",
+    "Location": "Glendale, AZ",
+    "Stadium": "State Farm Stadium"
+  },
+  {
+    "HomeTeam": "Los Angeles Chargers",
+    "AwayTeam": "Kansas City Chiefs",
+    "Day": "Sunday",
+    "Date": "January 7, 2024",
+    "Time": "4:25 PM",
+    "Location": "Inglewood, CA",
+    "Stadium": "SoFi Stadium"
+  },
+  {
+    "HomeTeam": "San Francisco 49ers",
+    "AwayTeam": "Los Angeles Rams",
+    "Day": "Sunday",
+    "Date": "January 7, 2024",
+    "Time": "4:25 PM",
+    "Location": "Santa Clara, CA",
+    "Stadium": "Levi's Stadium"
+  },
+  {
+    "HomeTeam": "Washington Commanders",
+    "AwayTeam": "Dallas Cowboys",
+    "Day": "Sunday",
+    "Date": "January 7, 2024",
+    "Time": "4:25 PM",
+    "Location": "Landover, MD",
+    "Stadium": "FedExField"
+  },
+  {
+    "HomeTeam": "Miami Dolphins",
+    "AwayTeam": "Buffalo Bills",
+    "Day": "Sunday",
+    "Date": "January 7, 2024",
+    "Time": "8:20 PM",
+    "Location": "Miami Gardens, FL",
+    "Stadium": "Hard Rock Stadium"
+  }
+]

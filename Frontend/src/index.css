@@ -1,0 +1,82 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  h1 {
+    @apply text-3xl font-bold font-montserrat text-blue-200;
+  }
+  h2 {
+    @apply text-2xl font-semibold font-montserrat text-blue-200;
+  }
+  h3 {
+    @apply text-xl font-medium font-montserrat text-blue-200;
+  }
+  p {
+    @apply text-base font-robotoMono text-blue-400;
+  }
+  button {
+    @apply font-montserrat;
+  }
+  a {
+    @apply font-raleway;
+  }
+}
+
+.loader {
+  width: 80px;
+  height: 40px;
+  background: radial-gradient(circle 25px at top right, #ffd738 40%, #0000),
+    #4dbefa;
+  position: relative;
+  overflow: hidden;
+}
+
+.loader:before,
+.loader:after {
+  content: "";
+  position: absolute;
+  top: 4px;
+  left: -40px;
+  width: 36px;
+  height: 20px;
+  --c: radial-gradient(farthest-side, #fff 96%, #0000);
+  background: var(--c) 100% 100% /30% 60%, var(--c) 70% 0 /50% 100%,
+    var(--c) 0 100% /36% 68%, var(--c) 27% 18% /26% 40%,
+    linear-gradient(#fff 0 0) bottom/67% 58%;
+  background-repeat: no-repeat;
+  animation: loading 2s linear infinite;
+}
+
+.loader:after {
+  top: 15px;
+  --l: 200%;
+}
+
+@keyframes rain {
+  0% {
+    background-position: 0% 0%;
+  }
+  100% {
+    background-position: 20% 100%;
+  }
+}
+
+@keyframes moveWind {
+  0% {
+    opacity: 0; /* Arrow is invisible */
+    transform: translate(0, 0) rotate(var(--wind-direction));
+  }
+  10% {
+    opacity: 1; /* Arrow becomes visible as it starts moving */
+    transform: translate(0, 0) rotate(var(--wind-direction));
+  }
+  100% {
+    opacity: 1; /* Arrow remains visible throughout the animation */
+    transform: translate(
+        calc(100vw * cos(var(--wind-direction))),
+        calc(100vh * sin(var(--wind-direction)))
+      )
+      rotate(var(--wind-direction));
+  }
+}

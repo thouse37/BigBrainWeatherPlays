@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "name": "Buffalo Bills",
+    "division": "AFC East",
+    "logo": "Buffalo-Bills.png"
+  },
+  {
+    "id": 2,
+    "name": "Miami Dolphins",
+    "division": "AFC East",
+    "logo": "Miami-Dolphins.png"
+  },
+  {
+    "id": 3,
+    "name": "New England Patriots",
+    "division": "AFC East",
+    "logo": "New-England-Patriots.png"
+  },
+  {
+    "id": 4,
+    "name": "New York Jets",
+    "division": "AFC East",
+    "logo": "New-York-Jets.png"
+  },
+  {
+    "id": 5,
+    "name": "Baltimore Ravens",
+    "division": "AFC North",
+    "logo": "Baltimore-Ravens.png"
+  },
+  {
+    "id": 6,
+    "name": "Cincinnati Bengals",
+    "division": "AFC North",
+    "logo": "Cincinnati-Bengals.png"
+  },
+  {
+    "id": 7,
+    "name": "Cleveland Browns",
+    "division": "AFC North",
+    "logo": "Cleveland-Browns.png"
+  },
+  {
+    "id": 8,
+    "name": "Pittsburgh Steelers",
+    "division": "AFC North",
+    "logo": "Pittsburgh-Steelers.png"
+  },
+  {
+    "id": 9,
+    "name": "Houston Texans",
+    "division": "AFC South",
+    "logo": "Houston-Texans.png"
+  },
+  {
+    "id": 10,
+    "name": "Indianapolis Colts",
+    "division": "AFC South",
+    "logo": "Indianapolis-Colts.png"
+  },
+  {
+    "id": 11,
+    "name": "Jacksonville Jaguars",
+    "division": "AFC South",
+    "logo": "Jacksonville-Jaguars.png"
+  },
+  {
+    "id": 12,
+    "name": "Tennessee Titans",
+    "division": "AFC South",
+    "logo": "Tennessee-Titans.png"
+  },
+  {
+    "id": 13,
+    "name": "Denver Broncos",
+    "division": "AFC West",
+    "logo": "Denver-Broncos.png"
+  },
+  {
+    "id": 14,
+    "name": "Kansas City Chiefs",
+    "division": "AFC West",
+    "logo": "Kansas-City-Chiefs.png"
+  },
+  {
+    "id": 15,
+    "name": "Las Vegas Raiders",
+    "division": "AFC West",
+    "logo": "Las-Vegas-Raiders.png"
+  },
+  {
+    "id": 16,
+    "name": "Los Angeles Chargers",
+    "division": "AFC West",
+    "logo": "Los-Angeles-Chargers.png"
+  },
+  {
+    "id": 17,
+    "name": "Dallas Cowboys",
+    "division": "NFC East",
+    "logo": "Dallas-Cowboys.png"
+  },
+  {
+    "id": 18,
+    "name": "New York Giants",
+    "division": "NFC East",
+    "logo": "New-York-Giants.png"
+  },
+  {
+    "id": 19,
+    "name": "Philadelphia Eagles",
+    "division": "NFC East",
+    "logo": "Philadelphia-Eagles.png"
+  },
+  {
+    "id": 20,
+    "name": "Washington Commanders",
+    "division": "NFC East",
+    "logo": "Washington-Commanders.png"
+  },
+  {
+    "id": 21,
+    "name": "Chicago Bears",
+    "division": "NFC North",
+    "logo": "Chicago-Bears.png"
+  },
+  {
+    "id": 22,
+    "name": "Detroit Lions",
+    "division": "NFC North",
+    "logo": "Detroit-Lions.png"
+  },
+  {
+    "id": 23,
+    "name": "Green Bay Packers",
+    "division": "NFC North",
+    "logo": "Green-Bay-Packers.png"
+  },
+  {
+    "id": 24,
+    "name": "Minnesota Vikings",
+    "division": "NFC North",
+    "logo": "Minnesota-Vikings.png"
+  },
+  {
+    "id": 25,
+    "name": "Atlanta Falcons",
+    "division": "NFC South",
+    "logo": "Atlanta-Falcons.png"
+  },
+  {
+    "id": 26,
+    "name": "Carolina Panthers",
+    "division": "NFC South",
+    "logo": "Carolina-Panthers.png"
+  },
+  {
+    "id": 27,
+    "name": "New Orleans Saints",
+    "division": "NFC South",
+    "logo": "New-Orleans-Saints.png"
+  },
+  {
+    "id": 28,
+    "name": "Tampa Bay Buccaneers",
+    "division": "NFC South",
+    "logo": "Tampa-Bay-Buccaneers.png"
+  },
+  {
+    "id": 29,
+    "name": "Arizona Cardinals",
+    "division": "NFC West",
+    "logo": "Arizona-Cardinals.png"
+  },
+  {
+    "id": 30,
+    "name": "Los Angeles Rams",
+    "division": "NFC West",
+    "logo": "Los-Angeles-Rams.png"
+  },
+  {
+    "id": 31,
+    "name": "San Francisco 49ers",
+    "division": "NFC West",
+    "logo": "San-Francisco-49ers.png"
+  },
+  {
+    "id": 32,
+    "name": "Seattle Seahawks",
+    "division": "NFC West",
+    "logo": "Seattle-Seahawks.png"
+  }
+]
