@@ -10,6 +10,7 @@ import {
   updateUserAvatar,
   forgotPassword,
   resetPassword,
+  getUserAvatar,
 } from "../controllers/userController.js";
 import { authenticateToken } from "../middleware/authMiddleware.js";
 import { loginLimiter } from "../middleware/rateLimit.js";
@@ -24,6 +25,7 @@ router.get("/user/profile", authenticateToken, getUserProfile);
 router.post("/user/email", authenticateToken, updateUserContact);
 router.post("/user/username", authenticateToken, updateUserUsername);
 router.post("/user/password", authenticateToken, updateUserPassword);
+router.get("/user/avatar/:filename", authenticateToken, getUserAvatar);
 router.post(
   "/user/avatar",
   authenticateToken,

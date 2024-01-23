@@ -1,0 +1,38 @@
+[
+  {
+    "HomeTeam": "Baltimore Ravens",
+    "AwayTeam": "Houston Texans",
+    "Day": "Saturday",
+    "Date": "January 20, 2024",
+    "Time": "4:30 PM",
+    "Location": "Baltimore, MD",
+    "Stadium": "M&T Bank Stadium"
+  },
+  {
+    "HomeTeam": "San Francisco 49ers",
+    "AwayTeam": "Green Bay Packers",
+    "Day": "Saturday",
+    "Date": "January 20, 2024",
+    "Time": "8:15 PM",
+    "Location": "Santa Clara, CA",
+    "Stadium": "Levi's Stadium"
+  },
+  {
+    "HomeTeam": "Detroit Lions",
+    "AwayTeam": "Tampa Bay Buccaneers",
+    "Day": "Sunday",
+    "Date": "January 21, 2024",
+    "Time": "3:00 PM",
+    "Location": "Detroit, MI",
+    "Stadium": "Ford Field"
+  },
+  {
+    "HomeTeam": "Buffalo Bills",
+    "AwayTeam": "Kansas City Chiefs",
+    "Day": "Sunday",
+    "Date": "January 21, 2024",
+    "Time": "6:30 PM",
+    "Location": "Orchard Park, NY",
+    "Stadium": "Highmark Stadium"
+  }
+]

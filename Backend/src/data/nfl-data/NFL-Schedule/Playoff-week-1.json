@@ -1,0 +1,57 @@
+[
+  {
+    "HomeTeam": "Houston Texans",
+    "AwayTeam": "Cleveland Browns",
+    "Day": "Saturday",
+    "Date": "January 13, 2024",
+    "Time": "4:30 PM",
+    "Location": "Houston, TX",
+    "Stadium": "NRG Stadium"
+  },
+  {
+    "HomeTeam": "Kansas City Chiefs",
+    "AwayTeam": "Miami Dolphins",
+    "Day": "Saturday",
+    "Date": "January 13, 2024",
+    "Time": "8:00 PM",
+    "Location": "Kansas City, MO",
+    "Stadium": "GEHA Field at Arrowhead Stadium"
+  },
+
+  {
+    "HomeTeam": "Dallas Cowboys",
+    "AwayTeam": "Green Bay Packers",
+    "Day": "Sunday",
+    "Date": "January 14, 2024",
+    "Time": "4:30 PM",
+    "Location": "Arlington, TX",
+    "Stadium": "AT&T Stadium"
+  },
+  {
+    "HomeTeam": "Detroit Lions",
+    "AwayTeam": "Los Angeles Rams",
+    "Day": "Sunday",
+    "Date": "January 14, 2024",
+    "Time": "8:00 PM",
+    "Location": "Detroit, MI",
+    "Stadium": "Ford Field"
+  },
+  {
+    "HomeTeam": "Buffalo Bills",
+    "AwayTeam": "Pittsburgh Steelers",
+    "Day": "Sunday",
+    "Date": "January 15, 2024",
+    "Time": "4:30 PM",
+    "Location": "Orchard Park, NY",
+    "Stadium": "Highmark Stadium"
+  },
+  {
+    "HomeTeam": "Tampa Bay Buccaneers",
+    "AwayTeam": "Philadelphia Eagles",
+    "Day": "Monday",
+    "Date": "January 15, 2024",
+    "Time": "8:15 PM",
+    "Location": "Tampa, FL",
+    "Stadium": "Raymond James Stadium"
+  }
+]

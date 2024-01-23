@@ -13,7 +13,7 @@ function StadiumImage({ stadiumData, gameData, weatherData }) {
     return (
       <div className="relative rounded w-[320px] h-[350px] sm:w-[233px] sm:h-[175px] md:w-[400px] md:h-[420px] lg:w-[450px] lg:h-[480px] xl:w-[500px] xl:h-[530px]">
         <img
-          src={`/public/${teamStadium.Image}`}
+          src={`/${teamStadium.Image}`}
           alt={gameData?.Stadium}
           className="object-cover w-full h-full"
         />

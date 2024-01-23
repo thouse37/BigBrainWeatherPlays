@@ -1,0 +1,146 @@
+[
+  {
+    "HomeTeam": "Las Vegas Raiders",
+    "AwayTeam": "Los Angeles Chargers",
+    "Day": "Thursday",
+    "Date": "December 14, 2023",
+    "Time": "8:15 PM",
+    "Location": "Las Vegas, NV",
+    "Stadium": "Allegiant Stadium"
+  },
+  {
+    "HomeTeam": "Cincinnati Bengals",
+    "AwayTeam": "Minnesota Vikings",
+    "Day": "Saturday",
+    "Date": "December 16, 2023",
+    "Time": "1:00 PM",
+    "Location": "Cincinnati, OH",
+    "Stadium": "Paycor Stadium"
+  },
+  {
+    "HomeTeam": "Indianapolis Colts",
+    "AwayTeam": "Pittsburgh Steelers",
+    "Day": "Saturday",
+    "Date": "December 16, 2023",
+    "Time": "4:30 PM",
+    "Location": "Indianapolis, IN",
+    "Stadium": "Lucas Oil Stadium"
+  },
+  {
+    "HomeTeam": "Detroit Lions",
+    "AwayTeam": "Denver Broncos",
+    "Day": "Saturday",
+    "Date": "December 16, 2023",
+    "Time": "8:15 PM",
+    "Location": "Detroit, MI",
+    "Stadium": "Ford Field"
+  },
+  {
+    "HomeTeam": "Cleveland Browns",
+    "AwayTeam": "Chicago Bears",
+    "Day": "Sunday",
+    "Date": "December 17, 2023",
+    "Time": "1:00 PM",
+    "Location": "Cleveland, OH",
+    "Stadium": "Cleveland Browns Stadium"
+  },
+  {
+    "HomeTeam": "Green Bay Packers",
+    "AwayTeam": "Tampa Bay Buccaneers",
+    "Day": "Sunday",
+    "Date": "December 17, 2023",
+    "Time": "1:00 PM",
+    "Location": "Green Bay, WI",
+    "Stadium": "Lambeau Field"
+  },
+  {
+    "HomeTeam": "Tennessee Titans",
+    "AwayTeam": "Houston Texans",
+    "Day": "Sunday",
+    "Date": "December 17, 2023",
+    "Time": "1:00 PM",
+    "Location": "Nashville, TN",
+    "Stadium": "Nissan Stadium"
+  },
+  {
+    "HomeTeam": "Miami Dolphins",
+    "AwayTeam": "New York Jets",
+    "Day": "Sunday",
+    "Date": "December 17, 2023",
+    "Time": "1:00 PM",
+    "Location": "Miami Gardens, FL",
+    "Stadium": "Hard Rock Stadium"
+  },
+  {
+    "HomeTeam": "New England Patriots",
+    "AwayTeam": "Kansas City Chiefs",
+    "Day": "Sunday",
+    "Date": "December 17, 2023",
+    "Time": "1:00 PM",
+    "Location": "Foxborough, MA",
+    "Stadium": "Gillette Stadium"
+  },
+  {
+    "HomeTeam": "New Orleans Saints",
+    "AwayTeam": "New York Giants",
+    "Day": "Sunday",
+    "Date": "December 17, 2023",
+    "Time": "1:00 PM",
+    "Location": "New Orleans, LA",
+    "Stadium": "Caesars Superdome"
+  },
+  {
+    "HomeTeam": "Carolina Panthers",
+    "AwayTeam": "Atlanta Falcons",
+    "Day": "Sunday",
+    "Date": "December 17, 2023",
+    "Time": "1:00 PM",
+    "Location": "Charlotte, NC",
+    "Stadium": "Bank of America Stadium"
+  },
+  {
+    "HomeTeam": "Los Angeles Rams",
+    "AwayTeam": "Washington Commanders",
+    "Day": "Sunday",
+    "Date": "December 17, 2023",
+    "Time": "4:05 PM",
+    "Location": "Inglewood, CA",
+    "Stadium": "SoFi Stadium"
+  },
+  {
+    "HomeTeam": "Arizona Cardinals",
+    "AwayTeam": "San Francisco 49ers",
+    "Day": "Sunday",
+    "Date": "December 17, 2023",
+    "Time": "4:05 PM",
+    "Location": "Glendale, AZ",
+    "Stadium": "State Farm Stadium"
+  },
+  {
+    "HomeTeam": "Buffalo Bills",
+    "AwayTeam": "Dallas Cowboys",
+    "Day": "Sunday",
+    "Date": "December 17, 2023",
+    "Time": "4:25 PM",
+    "Location": "Orchard Park, NY",
+    "Stadium": "Highmark Stadium"
+  },
+  {
+    "HomeTeam": "Jacksonville Jaguars",
+    "AwayTeam": "Baltimore Ravens",
+    "Day": "Sunday",
+    "Date": "December 17, 2023",
+    "Time": "8:20 PM",
+    "Location": "Jacksonville, FL",
+    "Stadium": "EverBank Stadium"
+  },
+  {
+    "HomeTeam": "Seattle Seahawks",
+    "AwayTeam": "Philadelphia Eagles",
+    "Day": "Monday",
+    "Date": "December 18, 2023",
+    "Time": "8:15 PM",
+    "Location": "Seattle, WA",
+    "Stadium": "Lumen Field"
+  }
+]

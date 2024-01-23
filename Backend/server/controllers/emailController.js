@@ -1,4 +1,4 @@
-import { sendEmail } from "../Utils/emailUtils.js";
+import { sendEmail } from "../utils/emailUtils.js";
 import pool from "../config/db.js";
 
 export const contactUs = async (req, res) => {

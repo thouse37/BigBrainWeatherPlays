@@ -1,0 +1,28 @@
+version: "3.8"
+services:
+  backend:
+    image: bigbrainweatherplays-backend
+    build: ./Backend
+    ports:
+      - "4000:4000"
+    env_file:
+      - ./Backend/.env.backend
+    networks:
+      - bigbrainnetwork
+
+  frontend:
+    image: bigbrainweatherplays-frontend
+    build: ./Frontend
+    ports:
+      - "8080:80"
+    env_file:
+      - ./Frontend/.env.frontend
+    environment:
+      - VITE_API_URL=http://backend:4000/api
+    depends_on:
+      - backend
+    networks:
+      - bigbrainnetwork
+
+networks:
+  bigbrainnetwork:

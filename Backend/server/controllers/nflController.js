@@ -36,8 +36,10 @@ export const getCurrentWeek = async (req, res) => {
 };
 
 export const getWeekSchedule = async (req, res) => {
+  console.log("hit");
   try {
     let weekIdentifier = req.params.weekIdentifier;
+
     if (weekIdentifier.includes("Playoff Week")) {
       weekIdentifier = weekIdentifier.replace("Playoff Week ", "Playoff-week-");
     } else {

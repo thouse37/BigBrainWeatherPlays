@@ -4,7 +4,7 @@ import Container from "../ui/Container.jsx";
 import { isToday, parse } from "date-fns";
 import { getTeamLogoPath } from "../utils/getTeamLogoPath.js";
 import { NflContext } from "../contexts/NflContext.jsx";
-import Loader from "../ui/Loader.jsx"; // Import your Loader component here
+import Loader from "../ui/Loader.jsx";
 
 function TodaysGames() {
   const [todaysGames, setTodaysGames] = useState([]);

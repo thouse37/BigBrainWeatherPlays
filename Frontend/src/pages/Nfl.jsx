@@ -4,7 +4,7 @@ import WeekDropDown from "../features/NFL-Games/WeekDropDown.jsx";
 import SortDropDown from "../features/NFL-Games/SortDropDown.jsx";
 import Container from "../ui/Container.jsx";
 import Loader from "../ui/Loader.jsx";
-import { getTeamLogoPath } from "../../utils/getTeamLogoPath.js";
+import { getTeamLogoPath } from "../utils/getTeamLogoPath.js";
 import { NflContext } from "../contexts/NflContext.jsx";
 
 function Nfl() {

@@ -1,0 +1,299 @@
+[
+  {
+    "Team": "Pittsburgh Steelers",
+    "Stadium": "Acrisure Stadium",
+    "Latitude": "40.446836934120704",
+    "Longitude": "-80.01558369026955",
+    "Roof": "Open",
+    "Image": "nfl-data/stadium-images/Acrisure-Stadium.png",
+    "Logo": "nfl-data/team-logos/Pittsburgh-Steelers.png"
+  },
+
+  {
+    "Team": "Germany",
+    "Stadium": "Frankfurt Stadium",
+    "Latitude": "50.0685972522995",
+    "Longitude": "8.645851938843268",
+    "Roof": "Retractable",
+    "Image": "nfl-data/stadium-images/Frankfurt-Stadium.png"
+  },
+  {
+    "Team": "Atlanta Falcons",
+    "Stadium": "Mercedes-Benz Stadium",
+    "Latitude": "33.75551049604457",
+    "Longitude": "-84.40105184199439",
+    "Roof": "Retractable",
+    "Image": "nfl-data/stadium-images/Mercedes-Benz-Stadium.png",
+    "Logo": "nfl-data/team-logos/Atlanta-Falcons.png"
+  },
+  {
+    "Team": "Cleveland Browns",
+    "Stadium": "Cleveland Browns Stadium",
+    "Latitude": "41.50602936714536",
+    "Longitude": "-81.69996652643692",
+    "Roof": "Open",
+    "Image": "nfl-data/stadium-images/Cleveland-Browns-Stadium.png",
+    "Logo": "nfl-data/team-logos/Cleveland-Browns.png"
+  },
+  {
+    "Team": "Green Bay Packers",
+    "Stadium": "Lambeau Field",
+    "Latitude": "44.501202831712455",
+    "Longitude": "-88.0622083017227",
+    "Roof": "Open",
+    "Image": "nfl-data/stadium-images/Lambeau-Field.png",
+    "Logo": "nfl-data/team-logos/Green-Bay-Packers.png"
+  },
+  {
+    "Team": "New England Patriots",
+    "Stadium": "Gillette Stadium",
+    "Latitude": "42.09086026993474",
+    "Longitude": "-71.26435392327018",
+    "Roof": "Open",
+    "Image": "nfl-data/stadium-images/Gillette-Stadium.png",
+    "Logo": "nfl-data/team-logos/New-England-Patriots.png"
+  },
+  {
+    "Team": "New Orleans Saints",
+    "Stadium": "Caesars Superdome",
+    "Latitude": "29.951184568020015",
+    "Longitude": "-90.08110166767696",
+    "Roof": "Dome",
+    "Image": "nfl-data/stadium-images/Caesars-Superdome.png",
+    "Logo": "nfl-data/team-logos/New-Orleans-Saints.png"
+  },
+  {
+    "Team": "Baltimore Ravens",
+    "Stadium": "M&T Bank Stadium",
+    "Latitude": "39.27791247326083",
+    "Longitude": "-76.62268850955715",
+    "Roof": "Open",
+    "Image": "nfl-data/stadium-images/M&T-Bank-Stadium.png",
+    "Logo": "nfl-data/team-logos/Baltimore-Ravens.png"
+  },
+  {
+    "Team": "Houston Texans",
+    "Stadium": "NRG Stadium",
+    "Latitude": "29.684959836499548",
+    "Longitude": "-95.4107936719417",
+    "Roof": "Retractable",
+    "Image": "nfl-data/stadium-images/NRG-Stadium.png",
+    "Logo": "nfl-data/team-logos/Houston-Texans.png"
+  },
+  {
+    "Team": "Carolina Panthers",
+    "Stadium": "Bank of America Stadium",
+    "Latitude": "35.22588911282038",
+    "Longitude": "-80.85284647981076",
+    "Roof": "Open",
+    "Image": "nfl-data/stadium-images/Bank-of-America-Stadium.png",
+    "Logo": "nfl-data/team-logos/Carolina-Panthers.png"
+  },
+  {
+    "Team": "Las Vegas Raiders",
+    "Stadium": "Allegiant Stadium",
+    "Latitude": "36.09071641489595",
+    "Longitude": "-115.18327154535993",
+    "Roof": "Dome",
+    "Image": "nfl-data/stadium-images/Allegiant-Stadium.png",
+    "Logo": "nfl-data/team-logos/Las-Vegas-Raiders.png"
+  },
+  {
+    "Team": "Philadelphia Eagles",
+    "Stadium": "Lincoln Financial Field",
+    "Latitude": "39.90081030754603",
+    "Longitude": "-75.16749081603123",
+    "Roof": "Open",
+    "Image": "nfl-data/stadium-images/Lincoln-Financial-Field.png",
+    "Logo": "nfl-data/team-logos/Philadelphia-Eagles.png"
+  },
+  {
+    "Team": "Cincinnati Bengals",
+    "Stadium": "Paycor Stadium",
+    "Latitude": "39.09538646915852",
+    "Longitude": "-84.51603776634963",
+    "Roof": "Open",
+    "Image": "nfl-data/stadium-images/Paycor-Stadium.png",
+    "Logo": "nfl-data/team-logos/Cincinnati-Bengals.png"
+  },
+  {
+    "Team": "New York Jets",
+    "Stadium": "MetLife Stadium",
+    "Latitude": "40.81357253898594",
+    "Longitude": "-74.07429508599219",
+    "Roof": "Open",
+    "Image": "nfl-data/stadium-images/MetLife-Stadium.png",
+    "Logo": "nfl-data/team-logos/New-York-Jets.png"
+  },
+  {
+    "Team": "New York Giants",
+    "Stadium": "MetLife Stadium",
+    "Latitude": "40.81357253898594",
+    "Longitude": "-74.07429508599219",
+    "Roof": "Open",
+    "Image": "nfl-data/stadium-images/MetLife-Stadium.png",
+    "Logo": "data/nfl-data/team-logos/New-York-Giants.png"
+  },
+  {
+    "Team": "Chicago Bears",
+    "Stadium": "Soldier Field",
+    "Latitude": "41.86228710353869",
+    "Longitude": "-87.61669942190838",
+    "Roof": "Open",
+    "Image": "nfl-data/stadium-images/Soldier-Field.png",
+    "Logo": "nfl-data/team-logos/Chicago-Bears.png"
+  },
+  {
+    "Team": "Indianapolis Colts",
+    "Stadium": "Lucas Oil Stadium",
+    "Latitude": "39.760164583693644",
+    "Longitude": "-86.16359846779177",
+    "Roof": "Retractable",
+    "Image": "nfl-data/stadium-images/Lucas-Oil-Stadium.png",
+    "Logo": "nfl-data/team-logos/Indianapolis-Colts.png"
+  },
+  {
+    "Team": "Minnesota Vikings",
+    "Stadium": "U.S. Bank Stadium",
+    "Latitude": "44.97372607574687",
+    "Longitude": "-93.2575951126406",
+    "Roof": "Dome",
+    "Image": "nfl-data/stadium-images/US-Bank-Stadium.png",
+    "Logo": "nfl-data/team-logos/Minnesota-Vikings.png"
+  },
+  {
+    "Team": "Tampa Bay Buccaneers",
+    "Stadium": "Raymond James Stadium",
+    "Latitude": "27.97596284455973",
+    "Longitude": "-82.5033276333473",
+    "Roof": "Open",
+    "Image": "nfl-data/stadium-images/Raymond-James-Stadium.png",
+    "Logo": "nfl-data/team-logos/Tampa-Bay-Buccaneers.png"
+  },
+  {
+    "Team": "Jacksonville Jaguars",
+    "Stadium": "EverBank Stadium",
+    "Latitude": "30.323968866671116",
+    "Longitude": "-81.63735901281724",
+    "Roof": "Open",
+    "Image": "nfl-data/stadium-images/EverBank-Stadium.png",
+    "Logo": "nfl-data/team-logos/Jacksonville-Jaguars.png"
+  },
+  {
+    "Team": "San Francisco 49ers",
+    "Stadium": "Levi's Stadium",
+    "Latitude": "37.40318608115411",
+    "Longitude": "-121.96979913882036",
+    "Roof": "Open",
+    "Image": "nfl-data/stadium-images/Levis-Stadium.png",
+    "Logo": "nfl-data/team-logos/San-Francisco-49ers.png"
+  },
+  {
+    "Team": "Arizona Cardinals",
+    "Stadium": "State Farm Stadium",
+    "Latitude": "33.52775976649528",
+    "Longitude": "-112.26262630897229",
+    "Roof": "Retractable",
+    "Image": "nfl-data/stadium-images/State-Farm-Stadium.png",
+    "Logo": "nfl-data/team-logos/Arizona-Cardinals.png"
+  },
+  {
+    "Team": "Los Angeles Chargers",
+    "Stadium": "SoFi Stadium",
+    "Latitude": "33.95364923562061",
+    "Longitude": "-118.33885874817969",
+    "Roof": "Dome",
+    "Image": "nfl-data/stadium-images/SoFi-Stadium.png",
+    "Logo": "nfl-data/team-logos/Los-Angeles-Chargers.png"
+  },
+  {
+    "Team": "Los Angeles Rams",
+    "Stadium": "SoFi Stadium",
+    "Latitude": "33.95364923562061",
+    "Longitude": "-118.33885874817969",
+    "Roof": "Open",
+    "Image": "nfl-data/stadium-images/SoFi-Stadium.png",
+    "Logo": "nfl-data/team-logos/Los-Angeles-Rams.png"
+  },
+  {
+    "Team": "Detroit Lions",
+    "Stadium": "Ford Field",
+    "Latitude": "42.3401198088705",
+    "Longitude": "-83.04548240017594",
+    "Roof": "Dome",
+    "Image": "nfl-data/stadium-images/Ford-Field.png",
+    "Logo": "nfl-data/team-logos/Detroit-Lions.png"
+  },
+  {
+    "Team": "Dallas Cowboys",
+    "Stadium": "AT&T Stadium",
+    "Latitude": "32.747888054746575",
+    "Longitude": "-97.09283545802357",
+    "Roof": "Retractable",
+    "Image": "nfl-data/stadium-images/AT&T-Stadium.png",
+    "Logo": "nfl-data/team-logos/Dallas-Cowboys.png"
+  },
+  {
+    "Team": "Seattle Seahawks",
+    "Stadium": "Lumen Field",
+    "Latitude": "47.59511960697215",
+    "Longitude": "-122.33168480312824",
+    "Roof": "Open",
+    "Image": "nfl-data/stadium-images/Lumen-Field.png",
+    "Logo": "nfl-data/team-logos/Seattle-Seahawks.png"
+  },
+  {
+    "Team": "Washington Commanders",
+    "Stadium": "FedExField",
+    "Latitude": "38.907637174648215",
+    "Longitude": "-76.86452048599713",
+    "Roof": "Open",
+    "Image": "nfl-data/stadium-images/FedExField.png",
+    "Logo": "nfl-data/team-logos/Washington-Commanders.png"
+  },
+  {
+    "Team": "Buffalo Bills",
+    "Stadium": "Highmark Stadium",
+    "Latitude": "42.77382238840031",
+    "Longitude": "-78.78704352603086",
+    "Roof": "Open",
+    "Image": "nfl-data/stadium-images/Highmark-Stadium.png",
+    "Logo": "nfl-data/team-logos/Buffalo-Bills.png"
+  },
+  {
+    "Team": "Denver Broncos",
+    "Stadium": "Empower Field at Mile High",
+    "Latitude": "39.74395876483966",
+    "Longitude": "-105.02010822840842",
+    "Roof": "Open",
+    "Image": "nfl-data/stadium-images/Empower-Field-at-Mile-High.png",
+    "Logo": "nfl-data/team-logos/Denver-Broncos.png"
+  },
+  {
+    "Team": "Miami Dolphins",
+    "Stadium": "Hard Rock Stadium",
+    "Latitude": "25.957702582267007",
+    "Longitude": "-80.2389973798464",
+    "Roof": "Open",
+    "Image": "nfl-data/stadium-images/Hard-Rock-Stadium.png",
+    "Logo": "nfl-data/team-logos/Miami-Dolphins.png"
+  },
+  {
+    "Team": "Kansas City Chiefs",
+    "Stadium": "GEHA Field at Arrowhead Stadium",
+    "Latitude": "39.04889232127532",
+    "Longitude": "-94.48396990632808",
+    "Roof": "Open",
+    "Image": "nfl-data/stadium-images/GEHA-Field-at-Arrowhead-Stadium.png",
+    "Logo": "nfl-data/team-logos/Kansas-City-Chiefs.png"
+  },
+  {
+    "Team": "Tennessee Titans",
+    "Stadium": "Nissan Stadium",
+    "Latitude": "36.16662486231977",
+    "Longitude": "-86.77140462623414",
+    "Roof": "Open",
+    "Image": "nfl-data/stadium-images/Nissan-Stadium.png",
+    "Logo": "nfl-data/team-logos/Tennessee-Titans.png"
+  }
+]

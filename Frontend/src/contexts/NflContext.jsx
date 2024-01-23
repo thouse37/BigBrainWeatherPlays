@@ -52,6 +52,10 @@ export const NflProvider = ({ children }) => {
 
   // Function to fetch schedule and weather
   async function fetchScheduleAndWeather(weekIdentifier, stadiumData) {
+    // Ensure weekIdentifier is valid before fetching
+    if (!weekIdentifier) {
+      throw new Error("No week identifier provided for schedule fetch.");
+    }
     // Fetch the game schedule for the selected week
     const schedule = await fetchWeekSchedule(weekIdentifier);
 

@@ -4,9 +4,9 @@ import pool from "../config/db.js";
 import fs from "fs";
 import path from "path";
 import { UPLOADS_FOLDER } from "../utils/pathUtils.js";
-import { updateAvatarPath } from "../Utils/userUtils.js";
-import { sendEmail } from "../Utils/emailUtils.js";
-import { generateResetToken, verifyGoogleToken } from "../Utils/authUtils.js";
+import { updateAvatarPath } from "../utils/userUtils.js";
+import { sendEmail } from "../utils/emailUtils.js";
+import { generateResetToken, verifyGoogleToken } from "../utils/authUtils.js";
 
 export const register = async (req, res) => {
   const { registrationMethod, ...registrationData } = req.body;
@@ -248,15 +248,21 @@ export const updateUserAvatar = async (req, res) => {
       [user_id]
     );
     const oldAvatarPath = currentUserResult.rows[0].avatar;
-    const avatarPath = req.file ? `/uploads/${req.file.filename}` : null;
+    const avatarPath = req.file ? `/${req.file.filename}` : null;
 
     if (req.file && oldAvatarPath) {
+      // Extract the filename from the old avatar path
+      const oldAvatarFilename = oldAvatarPath.split("/").pop();
+
+      // Construct the absolute path for the old avatar
       const oldAvatarAbsolutePath = path.join(
         UPLOADS_FOLDER,
-        oldAvatarPath.replace("/uploads/", "")
+        oldAvatarFilename
       );
+
+      // Check if the old avatar file exists and delete it
       if (fs.existsSync(oldAvatarAbsolutePath)) {
-        fs.unlinkSync(oldAvatarAbsolutePath); // Use fs.unlinkSync to delete the old avatar
+        fs.unlinkSync(oldAvatarAbsolutePath);
       }
     }
 
@@ -446,5 +452,17 @@ export const resetPassword = async (req, res) => {
   } catch (error) {
     console.error(error);
     res.status(500).send("Server error");
+  }
+};
+
+export const getUserAvatar = async (req, res) => {
+  const filename = req.params.filename;
+
+  const filePath = path.join(UPLOADS_FOLDER, filename);
+
+  if (fs.existsSync(filePath)) {
+    res.sendFile(filePath);
+  } else {
+    res.status(404).send("Avatar not found");
   }
 };

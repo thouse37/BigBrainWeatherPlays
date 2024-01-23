@@ -1,0 +1,128 @@
+[
+  {
+    "HomeTeam": "Baltimore Ravens",
+    "AwayTeam": "Cincinnati Bengals",
+    "Day": "Thursday",
+    "Date": "November 16, 2023",
+    "Time": "8:15 PM",
+    "Location": "Baltimore, MD",
+    "Stadium": "M&T Bank Stadium"
+  },
+  {
+    "HomeTeam": "Cleveland Browns",
+    "AwayTeam": "Pittsburgh Steelers",
+    "Day": "Sunday",
+    "Date": "November 19, 2023",
+    "Time": "1:00 PM",
+    "Location": "Cleveland, OH",
+    "Stadium": "Cleveland Browns Stadium"
+  },
+  {
+    "HomeTeam": "Detroit Lions",
+    "AwayTeam": "Chicago Bears",
+    "Day": "Sunday",
+    "Date": "November 19, 2023",
+    "Time": "1:00 PM",
+    "Location": "Detroit, MI",
+    "Stadium": "Ford Field"
+  },
+  {
+    "HomeTeam": "Green Bay Packers",
+    "AwayTeam": "Los Angeles Chargers",
+    "Day": "Sunday",
+    "Date": "November 19, 2023",
+    "Time": "1:00 PM",
+    "Location": "Green Bay, WI",
+    "Stadium": "Lambeau Field"
+  },
+  {
+    "HomeTeam": "Miami Dolphins",
+    "AwayTeam": "Las Vegas Raiders",
+    "Day": "Sunday",
+    "Date": "November 19, 2023",
+    "Time": "1:00 PM",
+    "Location": "Miami Gardens, FL",
+    "Stadium": "Hard Rock Stadium"
+  },
+  {
+    "HomeTeam": "Washington Commanders",
+    "AwayTeam": "New York Giants",
+    "Day": "Sunday",
+    "Date": "November 19, 2023",
+    "Time": "1:00 PM",
+    "Location": "Landover, MD",
+    "Stadium": "FedExField"
+  },
+  {
+    "HomeTeam": "Carolina Panthers",
+    "AwayTeam": "Dallas Cowboys",
+    "Day": "Sunday",
+    "Date": "November 19, 2023",
+    "Time": "1:00 PM",
+    "Location": "Charlotte, NC",
+    "Stadium": "Bank of America Stadium"
+  },
+  {
+    "HomeTeam": "Jacksonville Jaguars",
+    "AwayTeam": "Tennessee Titans",
+    "Day": "Sunday",
+    "Date": "November 19, 2023",
+    "Time": "1:00 PM",
+    "Location": "Jacksonville, FL",
+    "Stadium": "EverBank Stadium"
+  },
+  {
+    "HomeTeam": "Houston Texans",
+    "AwayTeam": "Arizona Cardinals",
+    "Day": "Sunday",
+    "Date": "November 19, 2023",
+    "Time": "1:00 PM",
+    "Location": "Houston, TX",
+    "Stadium": "NRG Stadium"
+  },
+  {
+    "HomeTeam": "San Francisco 49ers",
+    "AwayTeam": "Tampa Bay Buccaneers",
+    "Day": "Sunday",
+    "Date": "November 19, 2023",
+    "Time": "4:05 PM",
+    "Location": "Santa Clara, CA",
+    "Stadium": "Levi's Stadium"
+  },
+  {
+    "HomeTeam": "Buffalo Bills",
+    "AwayTeam": "New York Jets",
+    "Day": "Sunday",
+    "Date": "November 19, 2023",
+    "Time": "4:25 PM",
+    "Location": "Orchard Park, NY",
+    "Stadium": "Highmark Stadium"
+  },
+  {
+    "HomeTeam": "Los Angeles Rams",
+    "AwayTeam": "Seattle Seahawks",
+    "Day": "Sunday",
+    "Date": "November 19, 2023",
+    "Time": "4:25 PM",
+    "Location": "Inglewood, CA",
+    "Stadium": "SoFi Stadium"
+  },
+  {
+    "HomeTeam": "Denver Broncos",
+    "AwayTeam": "Minnesota Vikings",
+    "Day": "Sunday",
+    "Date": "November 19, 2023",
+    "Time": "8:20 PM",
+    "Location": "Denver, CO",
+    "Stadium": "Empower Field at Mile High"
+  },
+  {
+    "HomeTeam": "Kansas City Chiefs",
+    "AwayTeam": "Philadelphia Eagles",
+    "Day": "Monday",
+    "Date": "November 20, 2023",
+    "Time": "8:15 PM",
+    "Location": "Kansas City, MO",
+    "Stadium": "GEHA Field at Arrowhead Stadium"
+  }
+]

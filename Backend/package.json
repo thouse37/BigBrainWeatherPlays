@@ -1,10 +1,10 @@
 {
-  "name": "sportsweatherapp-backend",
+  "name": "bigbrainweatherplays-backend",
   "version": "0.1.0",
   "type": "module",
   "private": true,
   "scripts": {
-    "start": "nodemon server/server.js",
+    "start": "node server/server.js",
     "lint": "eslint . --ext .js --report-unused-disable-directives --max-warnings 0"
   },
   "dependencies": {
