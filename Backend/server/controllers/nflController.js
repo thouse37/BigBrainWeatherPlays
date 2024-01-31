@@ -36,7 +36,6 @@ export const getCurrentWeek = async (req, res) => {
 };
 
 export const getWeekSchedule = async (req, res) => {
-  console.log("hit");
   try {
     let weekIdentifier = req.params.weekIdentifier;
 
