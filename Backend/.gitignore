@@ -2,3 +2,4 @@
 .env.backend
 node_modules
 package-lock.json
+us-east-2-bundle.pem

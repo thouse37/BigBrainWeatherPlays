@@ -1,0 +1,20 @@
+[
+  {
+    "HomeTeam": "Baltimore Ravens",
+    "AwayTeam": "Kansas City Chiefs",
+    "Day": "Sunday",
+    "Date": "January 28, 2024",
+    "Time": "3:00 PM",
+    "Location": "Baltimore, MD",
+    "Stadium": "M&T Bank Stadium"
+  },
+  {
+    "HomeTeam": "San Francisco 49ers",
+    "AwayTeam": "Detroit Lions",
+    "Day": "Sunday",
+    "Date": "January 28, 2024",
+    "Time": "6:30 PM",
+    "Location": "Santa Clara, CA",
+    "Stadium": "Levi's Stadium"
+  }
+]
